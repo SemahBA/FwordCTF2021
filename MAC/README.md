@@ -1,5 +1,7 @@
 # MAC
 
+![](https://i.imgur.com/tS5rS5n.jpg)
+
 ## TL;DR
 - Reading slack conversation
 
