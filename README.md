@@ -1,2 +1,2 @@
 # FwordCTF2021
-Writeups
+Writeups for forensics Challenges
