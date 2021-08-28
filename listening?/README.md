@@ -2,6 +2,10 @@
 
 ![](https://i.imgur.com/RXF4ESC.jpeg)
 
+## Credit
+
+Credit to [0xMohamedHassan](https://twitter.com/0xMohamedHassan) for the excellent idea \o/ !
+
 ## TL;DR
 
 1 - Sent data in ICMP Packet
