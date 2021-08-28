@@ -4,7 +4,7 @@
 
 ## Credit
 
-Credit to [0xMohamedHassan](https://twitter.com/0xMohamedHassan) for the excellent challenge and for his help \o/ !
+Credit to [0xMohamedHassan](https://twitter.com/0xMohamedHassan) for the excellent idea \o/ !
 
 ## TL;DR
 
