@@ -6,7 +6,7 @@
 
 Credit to [0xMohamedHassan](https://twitter.com/0xMohamedHassan) for the excellent Challenge \o/.
 
-## TL;DT
+## TL;DR
 1. Check requests in the PCAP and find requests to cloudme which indicates cloudme software on the victim machine.
 
 2. Search for cloudme exploit to find BoF vuln.
