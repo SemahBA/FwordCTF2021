@@ -1,4 +1,4 @@
-# MAL-ATTACK
+# MAC
 
 ## TL;DR
 - Reading slack conversation
